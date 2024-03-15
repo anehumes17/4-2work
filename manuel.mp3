@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Redirect</title>
+	<noscript>
+		<meta id="meta-refresh" http-equiv="refresh" content="1; url=https://v2e81.bemobtrcks.com/go/d45a1ff8-e809-4f21-b8d2-6e50ce73438e?cost=0.000044&amp;visitor_id=777382105385808767&amp;zoneid=6787435&amp;campaignid=7898757&amp;bannerid=20249925&amp;language=en&amp;os=windows&amp;osversion=win10&amp;browser=chrome&amp;browserversion=120&amp;connection.type=xdsl&amp;region=bz"/>
+	</noscript>
+	<meta name="referrer" content="never">
+	<link rel="preconnect dns-prefetch" href="https://v2e81.bemobtrcks.com/go/d45a1ff8-e809-4f21-b8d2-6e50ce73438e?cost=0.000044&amp;visitor_id=777382105385808767&amp;zoneid=6787435&amp;campaignid=7898757&amp;bannerid=20249925&amp;language=en&amp;os=windows&amp;osversion=win10&amp;browser=chrome&amp;browserversion=120&amp;connection.type=xdsl&amp;region=bz"/>
+
+	<link rel="preconnect dns-prefetch" href="https://my.rtmark.net"/>
+
+
+
+</head>
+<body>
+<script type="text/javascript">
+
+    if (window.history) {
+        for (var i = 0; i < 3; i++) {
+            
+            var url = "/partitial/5117839/?var=6787435&ab2r=0&prfrev=false&rhd=false";
+            
+            window.history.pushState(null, document.title, url);
+        }
+    }
+
+
+    function redirect() {
+        
+        
+            window.location.href = "https:\/\/v2e81.bemobtrcks.com\/go\/d45a1ff8-e809-4f21-b8d2-6e50ce73438e?cost=0.000044\u0026visitor_id=777382105385808767\u0026zoneid=6787435\u0026campaignid=7898757\u0026bannerid=20249925\u0026language=en\u0026os=windows\u0026osversion=win10\u0026browser=chrome\u0026browserversion=120\u0026connection.type=xdsl\u0026region=bz";
+        
+    }
+
+
+    if (navigator.sendBeacon) {
+        navigator.sendBeacon("https:\/\/my.rtmark.net/img.gif?f=merge&userId=0a8e4b106cfa415aa7b37eb646ff6482");
+    }
+    redirect();
+
+</script>
+</body>
+</html>
